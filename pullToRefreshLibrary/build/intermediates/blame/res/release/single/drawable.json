@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/chenliliang/Desktop/2.2tag/luobopj_2.2.6_tag/pullToRefreshLibrary/build/intermediates/res/merged/release/drawable/image_loading.xml",
+        "source": "/Users/chenliliang/Desktop/2.2tag/luobopj_2.2.6_tag/pullToRefreshLibrary/src/main/res/drawable/image_loading.xml"
+    },
+    {
+        "merged": "/Users/chenliliang/Desktop/2.2tag/luobopj_2.2.6_tag/pullToRefreshLibrary/build/intermediates/res/merged/release/drawable/indicator_bg_top.xml",
+        "source": "/Users/chenliliang/Desktop/2.2tag/luobopj_2.2.6_tag/pullToRefreshLibrary/src/main/res/drawable/indicator_bg_top.xml"
+    },
+    {
+        "merged": "/Users/chenliliang/Desktop/2.2tag/luobopj_2.2.6_tag/pullToRefreshLibrary/build/intermediates/res/merged/release/drawable/indicator_bg_bottom.xml",
+        "source": "/Users/chenliliang/Desktop/2.2tag/luobopj_2.2.6_tag/pullToRefreshLibrary/src/main/res/drawable/indicator_bg_bottom.xml"
+    }
+]

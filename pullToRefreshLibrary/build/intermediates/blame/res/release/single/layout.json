@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/chenliliang/Desktop/2.2tag/luobopj_2.2.6_tag/pullToRefreshLibrary/build/intermediates/res/merged/release/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/chenliliang/Desktop/2.2tag/luobopj_2.2.6_tag/pullToRefreshLibrary/src/main/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/Users/chenliliang/Desktop/2.2tag/luobopj_2.2.6_tag/pullToRefreshLibrary/build/intermediates/res/merged/release/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/chenliliang/Desktop/2.2tag/luobopj_2.2.6_tag/pullToRefreshLibrary/src/main/res/layout/pull_to_refresh_header_horizontal.xml"
+    }
+]
